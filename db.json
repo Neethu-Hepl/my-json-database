@@ -42,21 +42,7 @@
         "additionalService1": "None",
         "additionalService2": "None",
         "totalProducts": 0,
-        "product1": "defaultProduct1",
-        "product1Unit": "unit",
-        "product1OpeningStock": 0,
-        "product1Consumption": 0,
-        "product1Balance": 0,
-        "product2": "defaultProduct2",
-        "product2Unit": "unit",
-        "product2OpeningStock": 0,
-        "product2Consumption": 0,
-        "product2Balance": 0,
-        "additionalProduct1": "defaultAdditionalProduct1",
-        "additionalProduct1Unit": "unit",
-        "additionalProduct1OpeningStock": 0,
-        "additionalProduct1Consumption": 0,
-        "additionalProduct1Balance": 0
+        "product1": "defaultProduct1"
     },
     {
         "sno": 2,
@@ -100,21 +86,7 @@
         "additionalService1": "None",
         "additionalService2": "None",
         "totalProducts": 0,
-        "product1": "defaultProduct1",
-        "product1Unit": "unit",
-        "product1OpeningStock": 0,
-        "product1Consumption": 0,
-        "product1Balance": 0,
-        "product2": "defaultProduct2",
-        "product2Unit": "unit",
-        "product2OpeningStock": 0,
-        "product2Consumption": 0,
-        "product2Balance": 0,
-        "additionalProduct1": "defaultAdditionalProduct1",
-        "additionalProduct1Unit": "unit",
-        "additionalProduct1OpeningStock": 0,
-        "additionalProduct1Consumption": 0,
-        "additionalProduct1Balance": 0
+        "product1": "defaultProduct1"
     }
   ]
 }
