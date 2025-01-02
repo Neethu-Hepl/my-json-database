@@ -116,6 +116,5 @@
     "$date": "2025-01-02T06:30:00.000Z"
   },
   "saleProduct2QuantitySold": 0,
-  "saleProduct2SaleAmt": 0,
-  "_class": "com.example.newdemo.model.DemoDetails"
+  "saleProduct2SaleAmt": 0
 }]
